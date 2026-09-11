@@ -82,7 +82,7 @@ nav {
         url("truman.jpeg");
 
     background-size: cover;
-    background-position: center;
+    background-position: center 30%;
     background-repeat: no-repeat;
 }
 
